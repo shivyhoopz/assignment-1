@@ -1,0 +1,10 @@
+notes
+
+More pictures for home page
+More information in about page
+add one replit project (when user click the number it will show pic of project)
+when use
+
+r clicks submit it will alert the name, email and message that they put
+
+
